@@ -31,5 +31,6 @@
 *.out
 *.app
 
-# IDEs
+# Ignore IDE-specific files
+.vscode/
 .idea/
