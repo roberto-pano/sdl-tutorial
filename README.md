@@ -5,6 +5,8 @@ DirectMedia Layer) using Docker. It allows you to develop SDL
 applications in a containerized Debian environment, which can be run on
 both Windows and Linux hosts.
 
+The course we are following is here: https://lazyfoo.net/tutorials/SDL/
+
 ## Prerequisites
 
 - Docker installed on your system
